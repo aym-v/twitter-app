@@ -1,0 +1,3 @@
+[submodule "autotweet"]
+	path = code
+	url = https://github.com/valaymerick/autotweet
