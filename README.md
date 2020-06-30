@@ -10,4 +10,4 @@ The project submodule along with documentation can be found under the `/code` di
 
 ## Report
 
-You can read the report [here](https://raw.githubusercontent.com/valaymerick/twitter-app/85ac5642c229cd55e2fb8364ae847dc26534fdcd/report/report.pdf).
+You can read the report [here](https://raw.githubusercontent.com/valaymerick/twitter-app/c7fc093c25efde507490f690b91f4ee37366d42a/report/report.pdf).
